@@ -1,0 +1,22 @@
+{
+  "name": "batatinha_plus",
+  "version": "1.0.0",
+  "description": "Pacote que vai mudar sua vida",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "executar": "node ./index.js",
+    "batata": "echo BATATA",
+    "start": "node ./index.js"
+  },
+  "keywords": [
+    "batata",
+    "cpf",
+    "node"
+  ],
+  "author": "Lucas",
+  "license": "ISC",
+  "dependencies": {
+    "cpf": "^2.0.1"
+  }
+}
